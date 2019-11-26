@@ -1,0 +1,11 @@
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\bin\Debug\ERozkladAPI.dll
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\bin\Debug\ERozkladAPI.pdb
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\obj\Debug\ERozkladAPI.csprojAssemblyReference.cache
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\obj\Debug\ERozkladAPI.dll
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\obj\Debug\ERozkladAPI.pdb
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\bin\Debug\HtmlAgilityPack.dll
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\bin\Debug\HtmlAgilityPack.pdb
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\bin\Debug\HtmlAgilityPack.xml
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\obj\Debug\ERozklad.Properties.Resources.resources
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\obj\Debug\ERozkladAPI.csproj.GenerateResource.cache
+E:\ZnZ\C#\ERozkladAPIProject\ERozkladAPI\obj\Debug\ERozkladAPI.csproj.CopyComplete
